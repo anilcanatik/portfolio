@@ -2,7 +2,7 @@
 Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
 
 ## Spotify Ülkelere Göre Top 50 Playlistlerinin Sentiment Analizi :
-[Spotify Projesi](https://pjournal.github.io/mef03g-spo-R-ify/SpotifyR/EDA_Final_Report.html), 2017-2019 yılları arasındaki Spotify Top 50 verilerini içeren verisetinın elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [Spotify API](https://developer.spotify.com/documentation/web-api/)'ndan yararlanılmıştır.
+[Spotify Projesi](https://pjournal.github.io/mef03g-spo-R-ify/SpotifyR/EDA_Final_Report.html), 2017-2019 yılları arasındaki Spotify Top 50 verilerini içeren verisetinın elde edilmesi ve sentiment analizini içermektedir. Verisetinin oluşturulmasında [Spotify API](https://developer.spotify.com/documentation/web-api/)'ndan yararlanılmıştır.
 
 ## Otomotiv Distribütörleri Derneği Yıllara Göre Araba Satış Verilerinin Analizi:
 [ODD Araba Satışları Projesi](https://pjournal.github.io/mef03g-spo-R-ify/ODD-Group-Assignment-by-spoRify.html), 2016-2019 Eylül ayları arasındaki ODD araba satış verilerini içeren verisetinın elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [ODD websitesinden](http://www.odd.org.tr/web_2837_1/neuralnetwork.aspx?type=36) yararlanılmıştır.
