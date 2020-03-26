@@ -1,5 +1,5 @@
 # Portfolio 
-Bu portfolio dökümanı, içerisinde yeraldığım farklı projelerin linklerini ve açıklamalarını içermektedir.
+Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
 
 ## Spotify Ülkelere Göre Top 50 Playlistlerinin Sentiment Analizi :
 [Spotify Projesi](https://pjournal.github.io/mef03g-spo-R-ify/SpotifyR/EDA_Final_Report.html), 2017-2019 yılları arasındaki Spotify Top 50 verilerini içeren verisetinın elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [Spotify API](https://developer.spotify.com/documentation/web-api/)'ndan yararlanılmıştır.
