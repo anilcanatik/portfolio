@@ -11,7 +11,7 @@ Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projele
 [BES Projesi](https://pjournal.github.io/mef03g-spo-R-ify/BES_Assignment.html), 2017-2019 Temmuz ayları arasındaki Bireysel Emeklilik Sistemi temel indikatör verilerini içeren verisetinin elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [EGM websitesinden](https://www.egm.org.tr/bilgi-merkezi/istatistikler/) yararlanılmıştır.
 
 ## BKM Aylara Ait Sektörel Gelişim Verilerinin Analizi:
-[BKM Projesi](https://pjournal.github.io/mef03g-spo-R-ify/BES_Assignment.html), 2010-2018 Aralık ayları arasındaki BKM kredi ve banka kartları üzerinden yapılan alışverişlerin sektörel bazda aylık verilerini içeren verisetinin elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [BKM websitesinden](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=1&List=Listele) yararlanılmıştır.
+[BKM Projesi](https://pjournal.github.io/mef03-Anilcana/bkm/bkm_anilcanatik.html), 2010-2018 Aralık ayları arasındaki BKM kredi ve banka kartları üzerinden yapılan alışverişlerin sektörel bazda aylık verilerini içeren verisetinin elde edilmesi ve analizini içermektedir. Verisetinin oluşturulmasında [BKM websitesinden](https://bkm.com.tr/secilen-aya-ait-sektorel-gelisim/?filter_year=2019&filter_month=1&List=Listele) yararlanılmıştır.
 
 
 
