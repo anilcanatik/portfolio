@@ -1,4 +1,4 @@
-# Portfolio 
+# Portfolio [Tr]
 Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
 
 ## Spotify Ülkelere Göre Top 50 Playlistlerinin Sentiment Analizi :
