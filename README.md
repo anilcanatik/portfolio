@@ -1,7 +1,7 @@
 # Portfolio [Tr]
 Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
 ## Amazon Movies Review NLP Analysis:
-[Amazon Movies Review Projesi](https://github.com/anilcanatik/portfolio/blob/master/SentimentAnalysisAmazonMovie/intro_ml_term_project_anilcan_atik.html), 1996 - 2014 yılları arasında Amazon sitesinde filmlere yapılmış yorumları ve yorumlarla birlikte submit edilen rating'i içermektedir. Bu projede Gözetimli Makine Öğrenmesi kullanılarak, film yorumlarının pozitif yada negatif olduğunu tahmin eden bir model kurulmuştur.
+[Amazon Movies Review Projesi](https://pjournal.github.io/anilcanatik/portfolio/blob/master/SentimentAnalysisAmazonMovie/intro_ml_term_project_anilcan_atik.html), 1996 - 2014 yılları arasında Amazon sitesinde filmlere yapılmış yorumları ve yorumlarla birlikte submit edilen rating'i içermektedir. Bu projede Gözetimli Makine Öğrenmesi kullanılarak, film yorumlarının pozitif yada negatif olduğunu tahmin eden bir model kurulmuştur.
 ## Spotify Ülkelere Göre Top 50 Playlistlerinin Sentiment Analizi :
 [Spotify Projesi](https://pjournal.github.io/mef03g-spo-R-ify/SpotifyR/EDA_Final_Report.html), 2017-2019 yılları arasındaki Spotify Top 50 verilerini içeren verisetinın elde edilmesi ve sentiment analizini içermektedir. Verisetinin oluşturulmasında [Spotify API](https://developer.spotify.com/documentation/web-api/)'ndan yararlanılmıştır.
 
