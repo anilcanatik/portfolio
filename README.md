@@ -1,5 +1,7 @@
 # Portfolio [Tr]
 Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
+## DeepDreaming Experimental:
+[DeepDreaming Projesi](https://htmlpreview.github.io/?https://github.com/anilcanatik/portfolio/blob/master/DeepDreaming/Advanced_ML_anilcanatik.html), Alexander Mordvintsev'in [blog postunun]https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) minimalist gezegen resimine göre uyarlanmasını içermektedir.
 ## Amazon Movies Review NLP Analysis:
 [Amazon Movies Review Projesi](https://htmlpreview.github.io/?https://github.com/anilcanatik/portfolio/blob/master/SentimentAnalysisAmazonMovie/intro_ml_term_project_anilcan_atik.html), 1996 - 2014 yılları arasında Amazon sitesinde filmlere yapılmış yorumları ve yorumlarla birlikte submit edilen rating'i içermektedir. Bu projede Gözetimli Makine Öğrenmesi kullanılarak, film yorumlarının pozitif yada negatif olduğunu tahmin eden bir model kurulmuştur.
 ## Spotify Ülkelere Göre Top 50 Playlistlerinin Sentiment Analizi :
