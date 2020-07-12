@@ -1,4 +1,4 @@
-# Portfolio [Tr]
+# Portfolyo [Tr]
 Bu portfolio dökümanı, içerisinde yeraldığım farklı lisansüstü projelerinin linklerini ve açıklamalarını içermektedir.
 ## DeepDreaming Experimental:
 [DeepDreaming Projesi](https://htmlpreview.github.io/?https://github.com/anilcanatik/portfolio/blob/master/DeepDreaming/Advanced_ML_anilcanatik.html), Alexander Mordvintsev'in [blog postunun](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) minimalist gezegen resimine göre uyarlanmasını içermektedir.
